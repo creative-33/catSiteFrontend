@@ -30,6 +30,6 @@ yarn-error.log*
 #tailwind
 /.public
 
-/src
+
 
 package-lock.json
